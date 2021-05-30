@@ -5,7 +5,7 @@
 
 <br>
 <p float="left">
-<img src="Android/Pic1.png" alt="Pic1" width="200px" height="300px"> <img src="Android/Pic2.png"alt="Pic2" width="200px" height="300px">    <img src="Android/Pic3.png" alt="Pic3" width="200px" height="300px"> <img src="Android/Pic4.png" alt="Pic3" width="200px" height="300px">
+<img src="Android/Pic1.png" alt="Pic1" width="200px" height="300px"><img src="Android/Pic4.png" alt="Pic3" width="200px" height="300px">
 </p>
 <br>
 <p float="left">
@@ -29,5 +29,3 @@
 			  
 </ul>
 
-<h3> Other Collaborator </h3>
-<li> K.M. Tawsik Zawad - https://github.com/zawad59 </li>
